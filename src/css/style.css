@@ -1,0 +1,152 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+    
+}
+.menu{
+    float: left;
+    padding-left: 432px;
+    
+}
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: white;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase
+}
+.main {
+    width: 100%;
+    height: calc(100% - 60px);
+    background:url(../img/Paren.png) 90% 100%/auto 85% no-repeat , url(../img/fonpar.jpg) center/cover no-repeat;
+}
+.title__container{
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;  
+}
+.title__container h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+.title__container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;
+}
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 50px 14px 0 14px;
+    }
+.obo{
+background: url("../img/Cherta.png") no-repeat 880px 50px;
+}
+.kryg{
+   margin-left: 825px;
+    margin-top: 40px;
+}
+.obo h2{
+    font-size: 38px;
+    margin-top: 110px;
+    text-align: center;
+    color: #263244;
+}
+.obo p{
+font-size: 14px;
+    margin-top: 40px;
+    text-align: center;
+    color: #3f495a;
+}
+.obo input{
+    
+    border: 2px solid #6f707e;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 860px;
+    color: #6f707e;
+    background: url("../img/skachat.png") no-repeat 10px;
+}
+.cho{
+    background: url("../img/Cherta.png") no-repeat 880px 50px;
+    
+}
+.cho h2{
+    font-size: 38px;
+    margin-top: 110px;
+    text-align: center;
+    color: #263244;   
+}
+.nout{
+    margin-left: 500px;
+    margin-top: 146px;
+}
+.znak{
+    margin-left: 740px;
+    margin-top: -110px;
+}
+.raketa{
+    margin-left: 985px;
+    margin-top: -110px;
+}
+.gram{
+    margin-left: 1230px;
+    margin-top: -110px;
+}
+.veb{
+    margin-left: 475px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: #cf7600;
+}
+.raz{
+    margin-left: 720px;
+    margin-top: -45px;
+    font-size: 20px;
+    color: #cf7600;
+}
+.ceo{
+    margin-left: 950px;
+    margin-top: -50px;
+    font-size: 20px;
+    color: #cf7600;
+}
+.mar{
+    margin-left: 1200px;
+    margin-top: -50px;
+    font-size: 20px;
+    color: #cf7600;
+}
+.veb1{
+    margin-left: 420px;
+    margin-top: 40px;
+}
+}
+
+    
+    
+  
+    
+}
